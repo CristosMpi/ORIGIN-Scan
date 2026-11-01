@@ -1,0 +1,17 @@
+.tools/
+.dart_tool/
+.flutter-plugins-dependencies
+build/
+coverage/
+android/local.properties
+android/.gradle/
+android/key.properties
+*.jks
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+**/xcuserdata/
+*.iml
+.DS_Store
+.idea/
